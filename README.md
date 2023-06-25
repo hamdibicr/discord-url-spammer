@@ -1,2 +1,3 @@
-# discord-url-spammer
-Kolay mantıklı discord server urlsini spamlayarak alma sistemi.
+# DISCORD URL SPAMMER
+- maindeki hamdi.js adlı dosyanın içerisinde urlSokucu("url", "sunucu id", "token") düzenlencek yer belli
+- size tavsiye birden fazla bot olarak aynı IP üzerinden spamlatmayın api banı yiyebilirsiniz onun için Heroku, glitch gibi siteler üzerinde yeni yeni proje açarak kullanbilirsiniz URL alındığı zaman #url-log adında kanal oluşturur ve otomatik bilgi geçip botu durdurur.
