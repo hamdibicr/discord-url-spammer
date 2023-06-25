@@ -1,0 +1,19 @@
+{
+  "name": "hamdi-url-sokucu",
+  "version": "3.6.1-0.4",
+  "description": "URL bitirici",
+  "main": "hamdi.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hamdibicr",
+  "license": "MIT",
+  "keywords": [
+    "discord.js"
+  ]
+}
